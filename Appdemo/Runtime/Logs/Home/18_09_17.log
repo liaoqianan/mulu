@@ -1,0 +1,8 @@
+[ 2018-09-17T12:21:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-09-17T16:18:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: appid should not be NULL!
+

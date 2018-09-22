@@ -1,0 +1,352 @@
+[ 2018-09-05T13:27:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+
+[ 2018-09-05T13:28:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-05T13:30:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: 1048:Column 'user_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `t_order` (`consignee_name`,`consignee_address`,`consignee_mobile`,`order_pay`,`invoice_content`,`order_number`,`order_price`,`created_at`,`user_id`) VALUES ('','','','0','on','153612544668371','6700','1536125446',NULL)
+
+[ 2018-09-05T14:00:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+
+[ 2018-09-05T14:04:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+
+[ 2018-09-05T16:41:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+
+[ 2018-09-05T16:42:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: 1048:Column 'user_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `t_order` (`consignee_name`,`consignee_address`,`consignee_mobile`,`invoice_head`,`order_pay`,`invoice_content`,`order_number`,`order_price`,`created_at`,`user_id`) VALUES ('廖乾安','民治樟坑二村','13168718753','0','0','明细','153613692720006','13400','1536136927',NULL)
+
+[ 2018-09-05T16:51:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: 1048:Column 'user_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `t_order` (`consignee_name`,`consignee_address`,`consignee_mobile`,`invoice_head`,`order_pay`,`invoice_content`,`order_number`,`order_price`,`created_at`,`user_id`) VALUES ('廖乾安','民治樟坑二村','13168718753','0','0','明细','153613750092326','13400','1536137500',NULL)
+
+[ 2018-09-05T17:08:44+08:00 ] 127.0.0.1 /index.php/Home/User/login.htmlhttps://www.hao123.com/?tn=94993071_hao_pg
+ERR: 非法操作:login.htmlhttps:
+
+[ 2018-09-05T17:16:58+08:00 ] 127.0.0.1 /index.php/Home/index/login
+ERR: 非法操作:login
+
+[ 2018-09-05T17:18:22+08:00 ] 127.0.0.1 /index.php/Home/User/regist.html
+ERR: 非法操作:regist
+
+[ 2018-09-05T17:23:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+
+[ 2018-09-05T17:33:02+08:00 ] 127.0.0.1 /index.php/Home/User/login.html
+ERR: 非法操作:login
+
+[ 2018-09-05T17:53:55+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:53:56+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:53:58+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:53:59+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:00+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:01+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:02+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:03+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:54:04+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:54:05+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:54:06+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:07+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:08+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:09+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:54:10+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:54:11+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:54:12+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:58:40+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:41+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:42+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:44+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:58:45+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:46+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:47+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:48+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:49+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:58:50+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:58:51+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:58:52+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:58:53+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:58:54+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:59:29+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:30+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:31+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:32+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:33+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:34+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:35+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:36+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:59:37+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:38+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:59:39+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:59:40+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:41+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:42+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:43+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:44+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T17:59:45+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:59:47+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T17:59:48+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:01:02+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:03+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:04+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:05+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:06+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:08+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:09+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:10+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:01:11+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:12+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:01:13+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:01:14+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:15+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:16+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:17+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:18+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:01:19+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:01:20+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:01:21+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:03:00+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:03:02+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:03:03+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:03:04+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:03:06+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:03:07+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:03:08+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:03:09+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:03:10+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:03:11+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:05:24+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:05:25+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:05:26+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:05:27+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:05:28+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:05:29+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:05:30+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:05:31+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:05:32+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:05:33+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:06:26+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:06:27+08:00 ] 127.0.0.1 /index.php/Home/User/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:06:28+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:06:29+08:00 ] 127.0.0.1 /index.php/Home/User/style/user.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:06:30+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:06:31+08:00 ] 127.0.0.1 /index.php/Home/User/style/home.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:06:32+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2018-09-05T18:06:33+08:00 ] 127.0.0.1 /index.php/Home/User/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:06:34+08:00 ] 127.0.0.1 /index.php/Home/User/js/header.js
+ERR: 非法操作:js
+
+[ 2018-09-05T18:06:35+08:00 ] 127.0.0.1 /index.php/Home/User/js/home.js
+ERR: 非法操作:js
+

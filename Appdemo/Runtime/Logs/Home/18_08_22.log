@@ -1,0 +1,24 @@
+[ 2018-08-22T23:44:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `t_goods_category` [ RunTime:0.0919s ]
+SQL: SELECT * FROM `t_goods_category` WHERE ( is_show=1 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `t_goods_category` WHERE ( is_show=1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.007499s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007544s ]
+NOTIC: [8] Undefined index: memid D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Home\6204b30d712b9ddc19c477ff2dafc99b.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.029873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.029923s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002765s ]
+

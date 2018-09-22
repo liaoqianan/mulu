@@ -1,0 +1,176 @@
+[ 2018-09-14T16:31:11+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-09-14T16:31:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=30
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-09-14T16:31:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-14T16:32:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: 1136:Column count doesn't match value count at row 3
+ [ SQL语句 ] : INSERT INTO `t_order_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_buy_number`,`goods_total_price`,`order_id`) VALUES ('30','OPPO R2000手机','2500','1','2500','4'),('31','苹果','6700','2','13400','4'),('0','0','4')
+
+[ 2018-09-14T16:34:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: 1136:Column count doesn't match value count at row 3
+ [ SQL语句 ] : INSERT INTO `t_order_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_buy_number`,`goods_total_price`,`order_id`) VALUES ('30','OPPO R2000手机','2500','1','2500','5'),('31','苹果','6700','2','13400','5'),('0','0','5')
+
+[ 2018-09-14T16:34:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+
+[ 2018-09-14T17:12:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:12:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:12:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:13:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:13:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:13:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:13:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:13:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:13:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected '$subject' (T_VARIABLE)
+
+[ 2018-09-14T17:13:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:17:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:17:54+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:17:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:17:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:17:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:17:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:18:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected 'D' (T_STRING)
+
+[ 2018-09-14T17:18:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+
+[ 2018-09-14T17:19:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+
+[ 2018-09-14T17:19:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow2.html
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+
+[ 2018-09-14T17:21:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+
+[ 2018-09-14T17:21:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+
+[ 2018-09-14T17:21:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-09-14T17:23:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+
+[ 2018-09-14T17:26:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+
+[ 2018-09-14T17:29:38+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow1.html
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+
+[ 2018-09-14T17:30:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-09-14T17:30:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=4&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+
+[ 2018-09-14T17:32:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+
+[ 2018-09-14T17:33:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+
+[ 2018-09-14T17:34:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+
+[ 2018-09-14T17:34:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/flow3.html
+ERR: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+

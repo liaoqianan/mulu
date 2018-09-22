@@ -1,0 +1,1020 @@
+[ 2018-09-03T10:43:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+
+[ 2018-09-03T10:50:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+
+[ 2018-09-03T10:58:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+
+[ 2018-09-03T10:59:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+
+[ 2018-09-03T11:02:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-09-03T11:03:45+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+
+[ 2018-09-03T11:06:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+
+[ 2018-09-03T11:08:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%97%8B%E8%BD%AC&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-8%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+
+[ 2018-09-03T11:08:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-09-03T11:15:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8E%AB%E7%91%B0%E7%BA%A2&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%97%8B%E8%BD%AC&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-8%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+
+[ 2018-09-03T11:15:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+
+[ 2018-09-03T11:17:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%9B%B4%E6%9D%BF&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1200w&goods_attr%5B%5D=cpu-2%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+
+[ 2018-09-03T11:28:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8E%AB%E7%91%B0%E7%BA%A2&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%97%8B%E8%BD%AC&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-09-03T11:43:43+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8E%AB%E7%91%B0%E7%BA%A2&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%97%8B%E8%BD%AC&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002181s ]
+
+[ 2018-09-03T11:44:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8E%AB%E7%91%B0%E7%BA%A2&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%97%8B%E8%BD%AC&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+
+[ 2018-09-03T11:44:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8E%AB%E7%91%B0%E7%BA%A2&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%97%8B%E8%BD%AC&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-09-03T13:01:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%BB%91%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-8%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+
+[ 2018-09-03T13:17:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E7%8F%8D%E7%8F%A0%E7%99%BD&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E6%BB%91%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-8%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+
+[ 2018-09-03T13:21:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E6%98%9F%E7%A9%BA%E8%93%9D&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%BF%BB%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+
+[ 2018-09-03T13:35:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E6%98%9F%E7%A9%BA%E8%93%9D&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%BF%BB%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+
+[ 2018-09-03T13:35:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2018-09-03T13:35:35+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000559s ]
+
+[ 2018-09-03T13:36:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2018-09-03T13:37:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001428s ]
+
+[ 2018-09-03T13:37:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000924s ]
+
+[ 2018-09-03T13:38:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2018-09-03T13:38:44+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2018-09-03T13:39:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+
+[ 2018-09-03T14:02:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+
+[ 2018-09-03T14:02:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+
+[ 2018-09-03T14:03:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+
+[ 2018-09-03T14:03:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+
+[ 2018-09-03T14:18:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/delCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+ERR: 非法操作:delCart
+
+[ 2018-09-03T14:18:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2018-09-03T14:19:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2018-09-03T14:20:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2018-09-03T14:20:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2018-09-03T14:21:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2018-09-03T14:26:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2018-09-03T14:30:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+NOTIC: [2] array_key_exists(): The first argument should be either a string or an integer D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2018-09-03T14:30:32+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [2] array_key_exists(): The first argument should be either a string or an integer D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2018-09-03T14:31:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+
+[ 2018-09-03T14:31:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+
+[ 2018-09-03T15:15:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E6%98%9F%E7%A9%BA%E8%93%9D&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%BF%BB%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+
+[ 2018-09-03T15:18:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E6%98%9F%E7%A9%BA%E8%93%9D&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%BF%BB%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+
+[ 2018-09-03T15:19:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+
+[ 2018-09-03T15:25:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+
+[ 2018-09-03T15:26:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+
+[ 2018-09-03T15:26:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+
+[ 2018-09-03T15:26:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E6%98%9F%E7%A9%BA%E8%93%9D&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%BF%BB%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+
+[ 2018-09-03T15:26:33+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+ERR: Think\Controller:ajaxRetun方法不存在！
+
+[ 2018-09-03T15:26:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+ERR: Think\Controller:ajaxRetun方法不存在！
+
+[ 2018-09-03T15:26:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+ERR: Think\Controller:ajaxRetun方法不存在！
+
+[ 2018-09-03T15:27:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+
+[ 2018-09-03T15:29:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+
+[ 2018-09-03T15:29:31+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+
+[ 2018-09-03T15:29:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+
+[ 2018-09-03T15:38:10+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:11+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:14+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:21+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+
+[ 2018-09-03T15:38:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:38:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:02+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=12
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=13
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=16
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=17
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=18
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=19
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=21
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=22
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=23
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=15
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=24
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=25
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=26
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=27
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=28
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=29
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002307s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=30
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T15:39:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit.html?goods_number=30
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8] Undefined index: goods_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Common\Library\Cart.class.php 第 78 行.
+
+[ 2018-09-03T18:26:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E6%98%9F%E7%A9%BA%E8%93%9D&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%BF%BB%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+
+[ 2018-09-03T18:28:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+
+[ 2018-09-03T18:28:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+
+[ 2018-09-03T18:29:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+
+[ 2018-09-03T18:29:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+
+[ 2018-09-03T18:29:05+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+
+[ 2018-09-03T18:30:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+
+[ 2018-09-03T18:31:09+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+
+[ 2018-09-03T18:31:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+
+[ 2018-09-03T18:31:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+
+[ 2018-09-03T18:32:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+
+[ 2018-09-03T18:34:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+
+[ 2018-09-03T18:35:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+
+[ 2018-09-03T18:37:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+
+[ 2018-09-03T18:39:58+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+
+[ 2018-09-03T18:46:07+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-09-03T18:49:45+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+
+[ 2018-09-03T18:52:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/delCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+ERR: 非法操作:delCart
+
+[ 2018-09-03T18:52:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+
+[ 2018-09-03T18:53:16+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+
+[ 2018-09-03T18:56:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+
+[ 2018-09-03T18:59:29+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+
+[ 2018-09-03T19:00:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+
+[ 2018-09-03T19:02:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+
+[ 2018-09-03T19:04:36+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+
+[ 2018-09-03T19:04:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+
+[ 2018-09-03T22:32:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=31&goods_name=%E8%8B%B9%E6%9E%9C&goods_price=6700&goods_buy_number=1&goods_attr%5B%5D=%E9%A2%9C-%E6%98%9F%E7%A9%BA%E8%93%9D&goods_attr%5B%5D=%E6%A0%B7%E5%BC%8F-%E7%BF%BB%E7%9B%96&goods_attr%5B%5D=%E5%83%8F%E7%B4%A0-1500w&goods_attr%5B%5D=cpu-4%E6%A0%B8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+
+[ 2018-09-03T22:32:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-09-03T22:32:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2018-09-03T22:33:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+
+[ 2018-09-03T22:33:21+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+
+[ 2018-09-03T22:33:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+
+[ 2018-09-03T22:34:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+
+[ 2018-09-03T22:35:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+
+[ 2018-09-03T22:36:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+
+[ 2018-09-03T22:38:12+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+NOTIC: [8] Undefined index: goods_total_price D:\phpstudy\PHPTutorial\WWW\demo\Appdemo\Home\Controller\CartController.class.php 第 64 行.
+
+[ 2018-09-03T22:39:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2018-09-03T22:39:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2018-09-03T22:40:26+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2018-09-03T22:41:17+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+
+[ 2018-09-03T22:41:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000848s ]
+
+[ 2018-09-03T22:42:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2018-09-03T22:43:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2018-09-03T22:44:06+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2018-09-03T22:46:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+
+[ 2018-09-03T22:47:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+
+[ 2018-09-03T22:49:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2018-09-03T22:49:45+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2018-09-03T22:49:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2018-09-03T22:50:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001006s ]
+
+[ 2018-09-03T22:50:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2018-09-03T22:50:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2018-09-03T22:50:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2018-09-03T22:51:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2018-09-03T22:52:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2018-09-03T22:52:27+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2018-09-03T22:52:30+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-09-03T22:52:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/del.html?id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+

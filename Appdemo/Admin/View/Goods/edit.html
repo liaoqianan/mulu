@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>添加商品</title>
+    <link href="__ADMIN__/css/style.css" rel="stylesheet" type="text/css" />
+    <script language="JavaScript" src="__ADMIN__/js/jquery.js"></script>
+    <script type="text/javascript" src="__PUICE__/timer/calendar.js"></script>
+    <link rel="stylesheet" href="__PUICE__/timer/calendar.css">
+    <!-- 百度编辑器 -->
+    <script src="__PUICE__/Ueditor/ueditor.config.js"></script>
+    <script src="__PUICE__/Ueditor/ueditor.all.min.js"></script>
+    <script src="__PUICE__/Ueditor/lang/zh-cn/zh-cn.js"></script>
+    <!--图片预览插件-->
+    <script src="__PUICE__/placeImage.js"></script>
+    <style>
+    .textinput2{
+        width: auto;
+        height: auto;
+        border:none;
+        background: none;
+        padding: 0;
+    }
+    .formtitle span{
+        position:static;/*去掉元素定位*/
+        margin-right:5px;
+        border-bottom-color:transparent;/*去掉下划线*/
+        cursor:pointer;
+    }
+    .formtitle span:first-child{
+        border-bottom-color:#66c9f3;
+    }
+    .forminfo{
+        display:none;
+    }
+    .forminfo:first-child{
+        display:block;
+    }
+    /*图片预览样式*/
+    #preview{
+        width:100px;
+        height:100px;
+    }
+   #f{
+        display:none;
+    }
+        #preview{
+            width:100px;
+            height:100px;
+        }
+        #f{
+            display:none;
+        }
+        .add,sub{
+            font,.sub{
+                font-size:18px;
+                cursor:pointer;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="place">
+        <span>位置：</span>
+        <ul class="placeul">
+            <li><a href="#">首页</a></li>
+            <li><a href="#">商品管理</a></li>
+        </ul>
+    </div>
+    <div class="formbody">
+        <div class="formtitle">
+            <span>基本信息</span>
+            <span>商品描述</span>
+            <span>商品属性</span>
+        </div>
+        <form action="" method="post" enctype="multipart/form-data">
+            <ul class="forminfo">
+                <li>
+                    <label>商品名称</label>
+                    <input name="goods_name" value="{$info.goods_name}" placeholder="请输入商品名称" type="text" class="dfinput" /><i>名称不能超过30个字符</i>
+                </li>
+                <li>
+                    <label>商品logo</label>
+                    <input id="f" type="file" name="goods_logo_src" onchange="change()" class="dfinput"/><i></i>
+                    <img id="preview" alt="" src="__PUBLIC__/{$info.goods_logo_thumb}" name="pic" />
+               </li>
+                <li>
+                    <label>商品价格</label>
+                    <input name="price" value="{$info.goods_price}" placeholder="请输入商品价格" type="text" class="dfinput" /><i></i></li>
+                <li>
+                    <label>商品数量</label>
+                    <input name="number" value="{$info.goods_number}" placeholder="请输入商品数量" type="text" class="dfinput" />
+                </li>
+                <li>
+                    <label>商品重量</label>
+                    <input name="weight" value="{$info.goods_weight}" placeholder="请输入商品重量" type="text" class="dfinput" />
+                </li>
+                <li>
+                    <label>上架时间</label>
+                    <input name="sale_time"  value="<if condition="$info['sale_time'] gt 0">{$info.sale_time|date='Y-m-d H:i:s',###}</if>" id="sale_time" placeholder="如果留空，则表示下架" type="text" class="dfinput" />
+                </li>
+                 <li>
+                    <label>商品排序</label>
+                     <input type="hidden" name="goods_id" value="{$info.goods_id}">
+                    <input id="sort" name="sort" value="{$info.sort}" placeholder="商品id越大表示越靠后" type="text"
+                    class="dfinput">   
+                </li>
+            </ul>    
+            <ul class="forminfo">
+                <li>
+                    <label>商品描述</label>
+                  <textarea id="good_desc" name="goods_desc" placeholder="请输入商品描述" cols="" rows="" class="textinput textinput2">{$info.goods_desc}</textarea>
+                </li>
+            </ul>
+            <ul class="forminfo" id="goods_attribute">
+                <li>
+                    <label>商品类型</label>
+                    <select name="type_id" class="dfinput">
+                        <option value="">--请选择--</option>
+                        <volist name="TypeList" id="vo">
+                            <option value="{$vo.type_id}">{$vo.type_name}</option>
+                        </volist>
+                    </select>
+                    <i></i>
+                </li>
+            </ul>
+            <ul>
+                 <li>
+                    <label>&nbsp;</label>
+                    <input id="btnSubmit" type="submit" class="btn" value="确认保存" />
+                </li>
+            </ul>    
+        </form>
+    </div>
+</body>
+<script type="text/javascript">
+    //时间插件
+     Calendar.setup({
+                inputField     :    "time",             // input输入框的id值
+                ifFormat       :    "%Y-%m-%d %H:%M:%S",  // 时间显示的格式 分别代表 年-月-日 时:分:秒
+                showsTime      :    true,                 // 是否显示 时间输入框
+                timeFormat     :    "24"                  // 时间的显示进制 12小时制/24小时制
+            });
+     //百度富文本编辑器
+    var ue = UE.getEditor('good_desc',{
+    initialFrameWidth:800,  //初始化编辑器宽度,默认1000
+    initialFrameHeight:270,  //初始化编辑器高度,默认320
+    toolbars: [[
+                'fullscreen', 'source', '|', 'undo', 'redo', '|',
+                'bold', 'italic', 'underline', 'fontborder', 'strikethrough', 'superscript', 'subscript', 'removeformat', 'formatmatch', 'autotypeset', 'blockquote', 'pasteplain', '|', 'forecolor', 'backcolor', 'insertorderedlist', 'insertunorderedlist', 'selectall', 'cleardoc', '|',
+                'rowspacingtop', 'rowspacingbottom', 'lineheight', '|',
+                'customstyle', 'paragraph', 'fontfamily', 'fontsize', '|',
+                'directionalityltr', 'directionalityrtl', 'indent', '|',
+                'justifyleft', 'justifycenter', 'justifyright', 'justifyjustify', '|', 'touppercase', 'tolowercase', '|',
+                'link', 'unlink', 'anchor', '|', 'imagenone', 'imageleft', 'imageright', 'imagecenter', '|',
+                'simpleupload', 'insertimage', 'emotion', 'scrawl', 'insertvideo', 'music', 'attachment', 'map', 'gmap', 'insertframe', 'insertcode', 'webapp', 'pagebreak', 'template', 'background', '|',
+                'horizontal', 'date', 'time', 'spechars', 'snapscreen', 'wordimage', '|',
+                'inserttable', 'deletetable', 'insertparagraphbeforetable', 'insertrow', 'deleterow', 'insertcol', 'deletecol', 'mergecells', 'mergeright', 'mergedown', 'splittocells', 'splittorows', 'splittocols', 'charts', '|',
+                'print', 'preview', 'searchreplace', 'help', 'drafts'
+            ]], 
+    });
+    //选项卡，切换表单
+    $('.formtitle span').on('click',function(){
+        $(this).css('border-bottom-color','#66c9f3')
+               .siblings().css('border-bottom-color','transparent');
+        var i = $(this).index();
+        $('.forminfo').eq(i).show()
+                      .siblings('.forminfo').hide();
+    }); 
+    //表单验证
+    $('form').on('submit',function(){
+        if( UE.getEditor('good_desc').getContent().length < 20){
+            var i = $('#good_desc').parents('.forminfo').index();
+            $('.forminfo').eq(i).show().siblings('.forminfo').hide();
+
+           $('.formtitle span').eq(i).css('border-bottom-color','#66c9f3')
+                               .siblings().css('border-bottom-color','transparent');
+            alert('商品描述不能少于50字');
+            return false;
+        }
+    });
+
+    $('#preview').on('click',function(){
+        $('#f').trigger('click');
+    });
+
+    // 商品属性的相关代码
+    $('select[name=type_id]').on('change',function(){
+
+        // 每次更换商品类型，先情况原来的商品属性输入框
+        $('.newLi').remove();
+
+        // 获取当前选中的下拉列表值
+        var typeid = $(this).val();
+
+        // 发送ajax到后台获取指定的商品类型数据
+        $.get('{:U("GoodsAttribute/getAttr")}',{'type_id':typeid},function(msg){
+            var content = "";
+            // 把PHP返回的数据使用each方法来循环生成
+            $(msg).each(function(key,value){
+                content += '<li class="newLi">'; // 这里把原来有的li 和 新增的属性li区分开来，newLi
+                // 根据当前属性是否是单选，如果是单选属性，则出现 + 号
+                var icon = '';
+                if( value.attr_sel == 1 ){ // 判断当前属性是否是单选属性
+                    icon = '<span class="add">[+]</span>';
+                }
+
+                content += '<label>'+ icon + value.attr_name+'</label>';
+                content += '<input type="hidden" name="attr_ids[]" value="'+ value.attr_id +'" />';
+                // 根据 attr_write 判断是手动录入的input 还是下拉列表select
+                if( value.attr_write == 0 ){
+                    // 手动录入
+                    content += '<input name="attr_vals[]" placeholder="请输入'+ value.attr_name +'" type="text" class="dfinput" />';
+                }else{
+                    // 下拉列表
+                    content += '<select name="attr_vals[]" class="dfinput">';
+
+                    // 把属性的参考值使用split进行字符串分割成数组
+                    // console.log( value.attr_vals );
+                    var vals = value.attr_vals.split(',');
+                    // console.log( vals );
+                    $(vals).each(function(k,v){ // 注意这里的变量不要和外面的each冲突了
+                        content += '<option value="'+v+'">'+v+'</option>';
+                    });
+
+                    content += '</select>';
+                }
+                content += '</li>';
+            });
+            // 追加到 #goods_attribute
+            $('#goods_attribute').append( content );
+        },'json');
+    });
+
+    // 点击 + 号，复制当前 + 号所在的li元素
+    $('#goods_attribute').on('click','.add',function(){
+        var curLI = $(this).parent().parent(); // 获取当前 + 号所在li元素
+        // $(this).parents('li'); // 也是获取当前 + 号所在li元素
+
+        var newLI = curLI.clone(); // 复制一个新的li出来
+        newLI.find('span').html('[-]').removeClass('add').addClass('sub');
+        curLI.after(newLI);  // 把新生成的 newLI 外部追加到 curLI
+    });
+
+    // 点击 - 号，移除当前一行 li
+    $('#goods_attribute').on('click','.sub',function(){
+        // 移除当前一行 li
+        $(this).parent().parent().remove();
+    });
+
+</script>
+</html>

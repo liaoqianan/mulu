@@ -1,0 +1,36 @@
+[ 2018-09-01T11:45:19+08:00 ] 127.0.0.1 /index.php/home/cart/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2018-09-01T11:45:20+08:00 ] 127.0.0.1 /index.php/home/cart/js/cart1.js
+ERR: 非法操作:js
+
+[ 2018-09-01T11:55:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+
+[ 2018-09-01T11:59:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+
+[ 2018-09-01T12:00:15+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+
+[ 2018-09-01T12:00:53+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+
+[ 2018-09-01T12:02:28+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+
+[ 2018-09-01T12:17:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/add.html?goods_id=30&goods_name=OPPO+R2000%E6%89%8B%E6%9C%BA&goods_price=2500&goods_buy_number=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+

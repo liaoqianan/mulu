@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>商品相册</title>
+    <link href="__ADMIN__/css/style.css" rel="stylesheet" type="text/css" />
+    <!--灯箱插件-->
+    <link rel="stylesheet" href="__PUICE__/lightbox/css/lightbox.css" />
+   <script language="JavaScript" src="__ADMIN__/js/jquery.js"></script>
+    <!--<script src=__PUICE__/lightbox/js/lightbox-plus-jquery.js"></script>-->
+    <style>
+        .add,.sub{
+            vertical-align:top;
+            cursor: pointer;
+        }
+        .imglist li{
+            width: auto;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="place">
+        <span>位置：</span>
+        <ul class="placeul">
+            <li><a href="#">首页</a></li>
+            <li><a href="#">商品管理</a></li>
+            <li><a href="#">商品相册</a></li>
+        </ul>
+    </div>
+    <div class="formbody">
+        <ul class="imglist">
+            <volist name="info" id="vo">
+                <li >
+                    <img class="pics" data-id="{$vo.pics_id}" width="15" src="__ADMIN__/images/t03.png" alt="" />
+                    <a href="__PUBLIC__/{$vo.pics_bg}" data-lightbox='my' data-title='my'/>
+                    <img src="__PUBLIC__/{$vo.pics_sm}" />
+                    </a>
+                </li>
+            </volist>
+        </ul>
+        <form action="" method="post" enctype="multipart/form-data">
+            <ul class="forminfo">
+                <li>
+                    <img class="add" src="__ADMIN__/images/t01.png" alt="" />
+                    <input type="file" name="pics[]" />
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <label>&nbsp;</label>
+                    <input type="hidden" name="goods_id" value="{$Think.get.id}">
+                    <input id="btnSubmit" type="submit" class="btn" value="确认保存" />
+                </li>
+            </ul>
+        </form>
+    </div>
+</body>
+<script>
+    //点击
+    $('.add').on('click',function(){
+        $(this).parent()
+               .clone()
+               .find('img').attr('src','__ADMIN__/images/t03.png')
+               .removeClass('add').addClass('sub')
+               .parent()
+               .appendTo('.forminfo');
+    });
+
+    // 动态减少文件上传框
+    $('.forminfo').on('click','.sub',function(){
+        $(this).parent().remove();  // 把当前被点击的img的父级元素li移除掉
+    });
+
+    //点击li发送ajax删除相册图片
+  $('.pics').on('click',function(){
+      if( !confirm('确定要删除这张图片吗？')){
+        return false;
+      }
+      var _this = $(this);
+     var pics_id = $(this).attr('data-id');
+
+     $.get('__CONTROLLER__/delpics',{'id':pics_id},function(msg){
+
+       if(msg == 1){
+            _this.parent().remove();
+       }else{
+           alert('删除图片失败！');
+       }
+     });
+  });
+
+</script>
+<script type="text/javascript" src="__PUICE__/lightbox/js/lightbox.js"></script>
+</html>

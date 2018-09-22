@@ -1,0 +1,549 @@
+[ 2018-08-17T12:44:25+08:00 ] 127.0.0.1 /index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+
+[ 2018-08-17T12:44:26+08:00 ] 127.0.0.1 /index.php/Admin/index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015809s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015893s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2018-08-17T12:44:27+08:00 ] 127.0.0.1 /index.php/Admin/index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2018-08-17T12:44:28+08:00 ] 127.0.0.1 /index.php/Admin/index/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2018-08-17T12:44:33+08:00 ] 127.0.0.1 /index.php/Admin/index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SELECT * FROM `t_admin` WHERE ( username='admin' ) LIMIT 1   [ RunTime:0.0734s ]
+SQL: UPDATE `t_admin` SET `login_time`='1534481073' WHERE ( admin_id=16 ) [ RunTime:0.1316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+
+[ 2018-08-17T12:44:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000810s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2018-08-17T12:44:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028792s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2018-08-17T12:44:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000966s ]
+
+[ 2018-08-17T12:44:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SELECT * FROM `t_role` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0750s ]
+SQL: SELECT * FROM `t_auth` WHERE ( auth_pid=0 )  [ RunTime:0.0436s ]
+SQL: SELECT * FROM `t_auth` WHERE ( auth_pid!=0 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001171s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001219s ]
+
+[ 2018-08-17T12:44:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `t_goods` [ RunTime:0.0284s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_goods` LIMIT 1   [ RunTime:0.0632s ]
+SQL: SELECT * FROM `t_goods` WHERE ( deleted_at = 0 ) ORDER BY sotr ASC,goods_id DESC LIMIT 0,5   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 35 行.
+NOTIC: [2] Division by zero D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 35 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 87 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001125s ]
+
+[ 2018-08-17T12:44:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/29.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SELECT * FROM `t_goods_type`  [ RunTime:0.0359s ]
+SQL: SHOW COLUMNS FROM `t_goods` [ RunTime:0.0188s ]
+SQL: SELECT * FROM `t_goods` WHERE `goods_id` = 29 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+NOTIC: [8] Undefined index: sort D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\32dcfffaea144041c8af12a24ecb5613.php 第 107 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001124s ]
+
+[ 2018-08-17T12:44:50+08:00 ] 127.0.0.1 /index.php/Admin/GoodsAttribute/getAttr.html?type_id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SELECT * FROM t_goods_attribute ga INNER JOIN t_goods_type gt ON ga.type_id = gt.type_id  WHERE ( ga.type_id=10 )  [ RunTime:0.0006s ]
+
+[ 2018-08-17T12:49:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/29.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `t_goods` [ RunTime:0.0190s ]
+NOTIC: [8] Undefined index: validate D:\PHPTutorial\WWW\demo\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `t_goods` WHERE `goods_name` = '荣耀3c' AND `goods_id` <> '29' LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: auto D:\PHPTutorial\WWW\demo\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] strtotime() expects at least 1 parameter, 0 given D:\PHPTutorial\WWW\demo\ThinkPHP\Library\Think\Model.class.php 第 1154 行.
+SQL: UPDATE `t_goods` SET `goods_name`='荣耀3c',`sale_time`='1534481397',`goods_desc`='<p><img src=\"/ueditor/php/upload/image/20180815/1534306941619227.jpg\" alt=\"1534306941619227.jpg\" /></p><p><img src=\"/ueditor/php/upload/image/20180815/1534306941599949.jpg\" alt=\"1534306941599949.jpg\" /></p><p><img src=\"/ueditor/php/upload/image/20180815/1534306941193427.jpg\" alt=\"1534306941193427.jpg\" /></p><p><img src=\"/ueditor/php/upload/image/20180815/1534306941804651.jpg\" alt=\"1534306941804651.jpg\" /></p><p><img src=\"/ueditor/php/upload/image/20180815/1534306941119034.jpg\" alt=\"1534306941119034.jpg\" /></p><p><img src=\"/ueditor/php/upload/image/20180815/1534306941105311.jpg\" alt=\"1534306941105311.jpg\" /></p><p><img src=\"/ueditor/php/upload/image/20180815/1534306942904312.jpg\" alt=\"1534306942904312.jpg\" /></p><p><br /></p>',`type_id`='10',`goods_price`='1900.00',`goods_number`='2500',`goods_weight`='0' WHERE `goods_id` = 29 [ RunTime:0.0395s ]
+SQL: INSERT INTO `t_goods_attribute_relation` (`goods_id`,`attr_id`,`attr_value`) VALUES ('1','3','珍珠白'),('1','4','直板'),('1','6',''),('1','7','2核') [ RunTime:0.1021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-08-17T12:49:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+SQL: SHOW COLUMNS FROM `t_goods` [ RunTime:0.0287s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `t_goods` WHERE ( deleted_at = 0 ) ORDER BY sotr ASC,goods_id DESC LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 35 行.
+NOTIC: [2] Division by zero D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 35 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\a1c7b3ae096445b556ac5782c5b8d19a.php 第 87 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2018-08-17T12:50:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2018-08-17T12:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008566s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001156s ]
+
+[ 2018-08-17T12:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001431s ]
+
+[ 2018-08-17T12:50:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SELECT * FROM `t_role` WHERE `role_id` = '1' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `t_auth` WHERE ( auth_pid=0 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `t_auth` WHERE ( auth_pid!=0 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_pid - assumed 'auth_pid' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+NOTIC: [8] Use of undefined constant auth_id - assumed 'auth_id' D:\PHPTutorial\WWW\demo\Appdemo\Runtime\Cache\Admin\034c717742a007312b33cc52f997c9b6.php 第 38 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+

@@ -1,0 +1,44 @@
+[ 2018-09-03T13:20:07+08:00 ] 127.0.0.1 /index.php/Admin/GoodsAttribute/getAttr.html?type_id=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SELECT * FROM t_goods_attribute ga INNER JOIN t_goods_type gt ON ga.type_id = gt.type_id  WHERE ( ga.type_id=11 )  [ RunTime:0.0009s ]
+
+[ 2018-09-03T13:20:13+08:00 ] 127.0.0.1 /index.php/Admin/GoodsAttribute/getAttr.html?type_id=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SELECT * FROM t_goods_attribute ga INNER JOIN t_goods_type gt ON ga.type_id = gt.type_id  WHERE ( ga.type_id=10 )  [ RunTime:0.0005s ]
+
+[ 2018-09-03T13:20:17+08:00 ] 127.0.0.1 /index.php/Admin/GoodsAttribute/getAttr.html?type_id=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT * FROM t_goods_attribute ga INNER JOIN t_goods_type gt ON ga.type_id = gt.type_id  WHERE ( ga.type_id=11 )  [ RunTime:0.0004s ]
+
+[ 2018-09-03T13:20:23+08:00 ] 127.0.0.1 /index.php/Admin/GoodsAttribute/getAttr.html?type_id=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+SQL: SELECT * FROM t_goods_attribute ga INNER JOIN t_goods_type gt ON ga.type_id = gt.type_id  WHERE ( ga.type_id=10 )  [ RunTime:0.0004s ]
+
+[ 2018-09-03T22:29:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics?id=25
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+
+[ 2018-09-03T22:29:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics?id=29
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+
+[ 2018-09-03T22:29:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delpics?id=29
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SELECT * FROM `t_goods_pics` WHERE `pics_id` = 29 LIMIT 1   [ RunTime:0.0008s ]
+SQL: DELETE FROM `t_goods_pics` WHERE `pics_id` = 29 [ RunTime:0.0337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001370s ]
+

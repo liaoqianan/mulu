@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>商品属性</title>
+    <link href="__ADMIN__/css/style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="__ADMIN__/js/jquery.js"></script>
+</head>
+<body>
+    <div class="place">
+        <span>位置：</span>
+        <ul class="placeul">
+            <li><a href="{:U('Index/main')}">首页</a></li>
+            <li><a href="#">数据表</a></li>
+            <li><a href="#">基本内容</a></li>
+        </ul>
+    </div>
+    <div class="rightinfo">
+        <div class="tools">
+            <ul class="toolbar">
+                <li><a href="{:U('GoodsAttribute/add')}"><span><img src="__ADMIN__/images/t01.png" /></span>添加</a></li>
+                <li><span><img src="__ADMIN__/images/t02.png" /></span>修改</li>
+               <!-- <label>商品类型</label>-->
+                <select name="type_id" class="dfinput">
+                    <option value="">查看所有属性</option>
+                    <volist name="typeList" id="vo">
+                        <option value="{$vo.type_id}">{$vo.type_name}</option>
+                    </volist>
+                </select>
+            </ul>
+        </div>
+        <table class="tablelist">
+            <thead>
+                <tr>
+                    <th>
+                        <input name="" type="checkbox" value="" id="checkAll" />
+                    </th>
+                    <th>编号</th>
+                    <th>属性名称</th>
+                    <th>所属类型</th>
+                    <th>唯一/单选</th>
+                    <th>录入方式</th>
+                    <th>可选值列表</th>
+                    <th>操作</th>
+                </tr>
+            </thead>
+            <tbody>
+            <volist name="AttrList" id="vo">
+                <tr>
+                    <td>
+                        <input name="" type="checkbox" value="{$vo.attr_id}" />
+                    </td>
+                    <td>{$vo.attr_id}</td>
+                    <td>{$vo.attr_name}</td>
+                    <td>{$vo.type_name}</td>
+                    <td><if condition="$vo['attr_sel'] == 0">唯一<else/>单选</if></td>
+                    <td><if condition="$vo['attr_write'] == 0">手动入录 <else />从列表选择</if></td>
+                    <td>{$vo.attr_vals}</td>
+
+                    <td><a href="{:U('GoodsAttribute/edit','id=' . $vo[attr_id])}" class="tablelink">编辑</a>
+                        <a href="{:U('GoodsAttribute/del','id=' . $vo[attr_id])}" class="tablelink"> 删除</a>
+                    </td>
+                </tr>
+            </volist>
+            </tbody>
+        </table>
+    </div>
+    <div class="pagin">
+        <div class="message">共<i class="blue">{$count}</i>条记录，当前显示第&nbsp;<i class="blue">{$Think.get.p|default=1}&nbsp;</i>页
+        </div>
+        <style type="text/css">
+            .paginList div span,
+            .paginList div a{
+                float: left;
+                width: auto;
+                padding: 2px 8px;
+                height: 28px;
+                border: 1px solid #DDD;
+                text-align: center;
+                line-height: 30px;
+                border-left: none;
+                color: #3399d5;
+            }
+            .paginList div a:last-child,
+            .paginList div span:last-child{
+                border-bottom-right-radius: 5px;
+                border-top-right-radius: 5px;
+            }
+            .paginList div a:first-child,
+            .paginList div span:first-child{
+                border-left: 1px solid #DDD;
+                border-bottom-left-radius: 5px;
+                border-top-left-radius: 5px;
+            }
+            .paginList div .current{
+                background: #f5f5f5;
+                cursor: default;
+                color: #737373;
+            }
+        </style >
+        <div class="paginList">
+            {$PageList}
+            </ul>
+        </div>
+        <script  type="text/javascript">
+            $('.tablelist tbody tr:odd').addClass('odd');
+
+            $('select[name=type_id]').on('change',function(){
+
+                var typeid = $(this).val();
+
+            $.get('__CONTROLLER__/getAttr',{'type_id':typeid},function(msg){
+                //console.log(msg);
+                $('.tablelist tbody').empty();
+
+                var content = '';
+                $(msg).each(function(key,value){
+                    content += '<tr>\n';
+                    content += '<td><input name="" type="checkbox" value="'+value.attr_id+'" /></td>\n';
+                    content += '<td>'+value.attr_id+'</td>\n';
+                    content += '<td>'+value.attr_name+'</td>\n';
+                    content += '<td>'+value.type_name+'</td>\n';
+                    content += '<td>'+ (value.attr_sel==0?'唯一':'单选') +'</td>\n';
+                    content += '<td>'+ (value.attr_write == 0?'手动录入':'从列表选择')+'</td>\n';
+                    content += '<td>'+value.attr_vals+'</td>\n';
+                    content += '<td>\n';
+                    content += '<a href="/index.php/Admin/GoodsAttribute/edit/id/'+value.attr_id+'.html" class="tablelink">编辑</a>\n';
+                    content += '<a href="/index.php/Admin/GoodsAttribute/del/id/'+value.attr_id+'.html" class="tablelink">删除</a>\n';
+                    content += '</td>\n';
+                    content += '</tr>\n';
+                });
+                    $('.tablelist tbody').html(content);
+            },'json');
+            });
+    </script>
+</body>
+
+</html>
